@@ -1,10 +1,34 @@
-# personal-website-template
+# TODO
 
-A simple one page template suited for personal and portfolio pages. 
+GitHub Accounts Consolidate to 1
+-davidsanville
+-codexaurelius
+-labarumDAS
+-bitbucket account, attached to crispcurve?
+-CS31, CS32, CS174, M20, BE260 Projects, etc
+-Capstone project
 
-## Usage
+Companies:
+-Juqebox web app, and site
+-Knowvi site
+-YouPaired site
+-Hungry Marketing site
 
-- Fork this repository
-- Rename it to `<your-github-username>.github.io`
-- Edit `index.html` to add your personal details
-- Goto `http://<your-github-username.github.io` and website will be visible there
+Research
+-Ina abstract
+-Link to Ina site with me on it
+-My LS10H paper
+-Did Banerjee ever publish
+
+Around the Web:
+-Instagram (professional one)
+-LinkedIn
+-Seeking Alpha
+-Konami Feature match
+-SoundCloud
+
+SEO:
+-SEO audit (remove unwated content)
+-SEO keywords to drive traffic (understand personal brand)
+
+Blog to drive traffic (make this site subscribable)
