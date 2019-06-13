@@ -26,9 +26,12 @@ Around the Web:
 -Seeking Alpha
 -Konami Feature match
 -SoundCloud
+-Make a professional twitter to promote SA
 
 SEO:
 -SEO audit (remove unwated content)
 -SEO keywords to drive traffic (understand personal brand)
+-Carry out SEO roadmap
 
 Blog to drive traffic (make this site subscribable)
+Sell consulting services from here?
